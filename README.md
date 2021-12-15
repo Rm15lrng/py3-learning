@@ -1,2 +1,2 @@
 # py3-learning
-code repository for learning python 3
+A code repository for learning python 3.
